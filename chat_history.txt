@@ -1,0 +1,102 @@
+Welcome. Start chatting here!
+
+User1: Hello, how are you?
+User2: I'm good, thanks!
+User3: What's up guys?
+User4: Not much, just chillin'
+User5: Anyone up for a game?
+User6: Yeah, I'm in!
+User7: What game are we playing?
+User8: How about chess?
+User9: Sounds good to me
+User10: I'll start
+User11: Your move, User10
+User12: I'll play as black
+User13: Nice move, User10
+User14: Thanks!
+User15: Anyone need help with anything?
+User16: Yeah, I need help with math
+User17: What's the problem?
+User18: It's a calculus problem
+User19: I can help with that
+User20: Thanks, User19!
+User21: What's the problem, User18?
+User22: It's a optimization problem
+User23: Okay, let me see
+User24: Do you have the equation?
+User25: Yeah, here it is
+User26: Okay, I think I can solve it
+User27: Take your time, User26
+User28: Alright, got it!
+User29: What's the answer?
+User30: It's x = 5
+User31: Nice job, User26!
+User32: Thanks!
+User33: Anyone want to grab lunch?
+User34: Yeah, I'm starving!
+User35: Where do you want to go?
+User36: How about the new cafe?
+User37: Sounds good to me
+User38: I'll meet you there at 1
+User39: See you then!
+User40: Bye for now!
+User41: Hey, what's up?
+User42: Not much, just coding
+User43: What are you working on?
+User44: A web app
+User45: That sounds cool!
+User46: Yeah, it's a lot of work
+User47: Do you need any help?
+User48: No, I got it
+User49: Okay, good luck!
+User50: Thanks!
+User51: Hey, have you seen the new movie?
+User52: Yeah, it's amazing!
+User53: I want to see it!
+User54: You should, it's worth it
+User55: What's it about?
+User56: It's a sci-fi movie
+User57: I love sci-fi!
+User58: Me too!
+User59: We should watch it together!
+User60: That sounds like fun!
+User61: Hey, do you guys play sports?
+User62: Yeah, I play basketball
+User63: I play soccer
+User64: I'm more of a tennis player
+User65: Nice, I love tennis!
+User66: Do you want to play a match?
+User67: Yeah, that sounds fun!
+User68: When were you thinking?
+User69: How about this weekend?
+User70: Sounds good to me!
+User71: Hey, what's up?
+User72: Not much, just studying
+User73: Yeah, me too
+User74: What are you studying for?
+User75: A math test
+User76: Good luck on your test!
+User77: Thanks!
+User78: Do you need any help?
+User79: No, I think I got it
+User80: Okay, good luck!
+User81: Hey, have you traveled anywhere?
+User82: Yeah, I went to Europe
+User83: That's amazing!
+User84: Yeah, it was a lot of fun
+User85: Where did you go?
+User86: I went to Paris and Rome
+User87: Nice, I want to go there!
+User88: You should, it's worth it
+User89: Did you try the food?
+User90: Yeah, it was amazing!
+User91: Hey, what's up?
+User92: Not much, just relaxing
+User93: Yeah, me too
+User94: Anyone want to hang out?
+User95: Yeah, I'm free!
+User96: What do you want to do?
+User97: How about a movie night?
+User98: Sounds good to me!
+User99: I'll bring the snacks!
+User100: See you then!

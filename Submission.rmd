@@ -1,0 +1,6 @@
+### Part 1
+Here I attach the README.txt for how to run server and client for part 1
+[View README_Part_1.txt](./README.txt)
+
+### Part 2
+![Plot of results](./Box_Plot_Part_2.png)
