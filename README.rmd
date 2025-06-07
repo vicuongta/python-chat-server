@@ -1,3 +1,0 @@
-1) How to start the server:
-Run 'python3 server.py' to start the server, the server is by default running on port 8822 and it will print the interface it's listening on. If you want to change to another port, run 'python3 server.py $PORT' where $PORT is your desired PORT.
-The server would block and wait for connection from the client(s).
